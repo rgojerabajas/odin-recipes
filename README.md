@@ -1,0 +1,1 @@
+The goal of this project is to build a reciepe website! Ooooh yummy! 
